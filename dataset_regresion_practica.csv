@@ -1,0 +1,1251 @@
+﻿ID,Age,Income,Experience_Years,Education_Level,City,Work_Hours_Per_Week,Remote_Work,Productivity_Score
+1,56,122646,12,PhD,Valparaíso,43,no,4230
+2,69,79192,37,Bachelor,Valparaíso,26,yes,23116
+3,46,100704,7,PhD,Concepción,38,yes,33217
+4,32,105247,19,Bachelor,Concepción,41,no,28251
+5,60,67579,32,Bachelor,,54,yes,19729
+6,25,,25,Master,Santiago,49,yes,28686
+7,38,96468,38,Bachelor,Concepción,48,no,29707
+8,56,57271,20,PhD,Santiago,41,no,18093
+9,36,121052,8,,Valparaíso,30,no,34499
+10,40,7903,23,High School,Concepción,39,no,19286
+11,28,41088,36,PhD,Concepción,100,no,2989
+12,28,56316,16,PhD,santiago,53,yes,15201
+13,41,60514,23,Bachelor,Valparaíso,20,no,19771
+14,53,25087,20,Bachelor,Valparaíso,50,no,9632
+15,57,81379,38,Bachelor,Concepción,49,no,2626
+16,41,,38,Bachelor,Concepción,37,yes,41827
+17,20,,12,PhD,,36,no,1972
+18,39,154405,10,,Concepción,57,no,47223
+19,19,115356,18,,,33,no,35443
+20,41,,10,Bachelor,Concepción,100,yes,20635
+21,61,80682,12,PhD,santiago,44,no,28971
+22,47,76622,0,PhD,Concepción,34,no,20116
+23,55,122654,39,PhD,Valparaíso,41,no,39172
+24,19,92925,18,Bachelor,Valparaíso,22,yes,26752
+25,38,109549,11,Bachelor,Concepción,38,yes,26846
+26,50,88954,7,Bachelor,Concepción,53,yes,20088
+27,29,77201,7,Bachelor,Concepción,54,yes,19386
+28,39,88161,11,PhD,Valparaíso,20,no,24623
+29,61,69826,32,PhD,Valparaíso,40,no,28267
+30,42,43695,25,Master,Concepción,48,yes,15494
+31,66,100342,38,High School,Valparaíso,25,yes,33868
+32,44,42471,27,Bachelor,Valparaíso,56,no,1106
+33,59,,4,Master,Concepción,20,no,21968
+34,45,69003,7,High School,santiago,20,yes,27569
+35,33,96084,24,Master,Concepción,46,yes,25462
+36,32,119118,26,Master,Concepción,40,yes,37604
+37,64,110124,22,Bachelor,Valparaíso,35,yes,38271
+38,68,96811,29,Bachelor,Valparaíso,59,no,32211
+39,61,64253,22,PhD,Concepción,45,yes,24881
+40,69,75413,19,Bachelor,Valparaíso,35,yes,23512
+41,20,71768,17,,Santiago,47,no,23251
+42,54,68243,17,PhD,Concepción,20,no,21252
+43,68,69939,1,PhD,Valparaíso,55,no,21532
+44,24,69272,3,PhD,santiago,29,no,17606
+45,38,68164,29,High School,Concepción,36,no,23556
+46,26,,32,Master,santiago,42,yes,32782
+47,56,53634,35,PhD,Concepción,26,yes,17508
+48,35,61763,17,Bachelor,Concepción,26,yes,24098
+49,21,40415,36,Bachelor,Valparaíso,34,no,12448
+50,42,,18,PhD,Concepción,53,yes,3808
+51,31,60087,27,Bachelor,Concepción,23,no,22838
+52,67,96519,39,Bachelor,Valparaíso,33,yes,32812
+53,26,91883,19,Bachelor,santiago,33,yes,2496
+54,43,112971,32,PhD,Concepción,35,no,35869
+55,19,7475,11,PhD,,26,no,2833
+56,37,56312,14,Bachelor,Concepción,51,yes,11118
+57,45,41106,38,High School,Concepción,38,yes,12909
+58,64,10384,1,PhD,Concepción,21,yes,6232
+59,24,84034,28,Master,Valparaíso,29,yes,25684
+60,61,99387,9,Bachelor,Concepción,36,yes,31976
+61,25,91792,1,Master,Valparaíso,56,no,30695
+62,64,41756,10,Master,Valparaíso,31,no,13103
+63,52,105971,12,Bachelor,Valparaíso,25,no,33418
+64,31,62545,9,,Santiago,41,no,18669
+65,34,57327,13,High School,Valparaíso,51,yes,17722
+66,53,61984,17,Bachelor,Valparaíso,39,yes,24973
+67,67,,8,Bachelor,Concepción,20,no,24396
+68,57,42882,38,PhD,Concepción,25,yes,13205
+69,21,79074,27,Bachelor,Valparaíso,38,no,27437
+70,19,,2,Bachelor,Santiago,37,yes,24052
+71,23,107683,19,PhD,Valparaíso,25,yes,30911
+72,59,84399,5,Bachelor,Santiago,52,yes,22705
+73,21,46509,26,,,42,no,13645
+74,46,83722,1,,santiago,42,no,2369
+75,35,53494,28,,santiago,45,no,18645
+76,43,52051,37,,Concepción,32,no,15798
+77,61,45932,2,Bachelor,Valparaíso,26,yes,15578
+78,51,,15,PhD,Concepción,34,yes,12328
+79,27,,29,,Valparaíso,46,yes,18316
+80,53,108222,39,Bachelor,Concepción,45,yes,36045
+81,31,6820599999999999,1,Master,Concepción,100,no,42734
+82,48,6566,16,Bachelor,santiago,34,yes,14535
+83,65,107153,11,Bachelor,Valparaíso,55,yes,32476
+84,32,70135,34,Bachelor,Concepción,46,yes,20301
+85,25,38732,0,,Valparaíso,24,no,15049
+86,31,97524,14,PhD,santiago,21,no,27987
+87,40,8587,25,PhD,Concepción,52,no,21953
+88,57,12545,36,High School,,35,yes,38646
+89,38,41633,20,Bachelor,,42,no,9959
+90,33,149901,30,Master,santiago,57,yes,47879
+91,62,119793,24,Bachelor,,35,yes,34012
+92,35,79552,22,,Valparaíso,33,yes,24253
+93,64,72534,23,PhD,,48,no,26588
+94,41,62105,37,Bachelor,Concepción,45,no,22877
+95,43,82743,27,Master,Valparaíso,54,yes,26526
+96,42,75402,20,PhD,,34,yes,22558
+97,62,92845,17,Bachelor,Concepción,22,no,29412
+98,58,72641,35,,Concepción,42,no,24769
+99,46,115374,34,Master,Valparaíso,48,no,32392
+100,32,83126,8,Bachelor,Concepción,53,yes,26832
+101,62,7358,37,High School,santiago,52,yes,19579
+102,18,105607,29,Master,Valparaíso,42,yes,34009
+103,42,,33,PhD,Valparaíso,26,no,964
+104,24,,31,PhD,santiago,22,no,33556
+105,26,80639,2,Bachelor,santiago,51,no,25562
+106,41,,2,Bachelor,santiago,50,yes,7851
+107,18,37287,27,High School,Valparaíso,37,yes,11793
+108,61,105259,14,High School,Santiago,26,no,30193
+109,25,,22,Bachelor,Concepción,20,yes,30002
+110,41,,39,PhD,Concepción,33,no,27026
+111,28,122916,10,Bachelor,Valparaíso,51,yes,33571
+112,68,91024,31,Master,Santiago,25,no,30642
+113,34,111245,35,Bachelor,Valparaíso,58,yes,36077
+114,25,90508,32,PhD,Concepción,29,yes,29227
+115,52,73105,23,PhD,Valparaíso,26,no,22503
+116,52,53562,38,PhD,santiago,45,no,19048
+117,50,64914,33,PhD,santiago,53,no,22438
+118,22,73572,27,Bachelor,,49,no,23806
+119,59,114079,36,Master,Santiago,55,no,30988
+120,56,99248,6,Bachelor,Santiago,40,yes,26909
+121,58,88258,3,PhD,Valparaíso,36,no,25103
+122,45,50875,36,,Valparaíso,100,no,26858
+123,24,93185,0,,Santiago,29,no,28048
+124,26,,0,PhD,Valparaíso,31,yes,29577
+125,25,42534,19,Bachelor,Concepción,35,no,16765
+126,29,108479,18,Bachelor,santiago,51,no,34643
+127,51,68537,28,PhD,,34,no,23464
+128,50,107214,9,Bachelor,santiago,46,yes,3834
+129,65,,17,Bachelor,,47,yes,35331
+130,40,,27,PhD,Valparaíso,36,no,22382
+131,41,103743,34,PhD,Valparaíso,21,yes,28086
+132,54,70975,30,Master,santiago,55,no,25691
+133,52,71124,26,Bachelor,Valparaíso,26,yes,23313
+134,61,86437,10,Master,santiago,32,no,25552
+135,57,87112,37,Bachelor,Valparaíso,34,yes,26321
+136,39,80964,4,High School,Valparaíso,44,no,21963
+137,44,46643,7,Bachelor,Concepción,42,no,17273
+138,52,76964,33,Bachelor,,41,yes,23834
+139,18,136962,11,,Valparaíso,45,no,39204
+140,52,1040,37,Bachelor,Valparaíso,52,no,1615
+141,54,101744,0,Master,santiago,30,no,30435
+142,64,106428,30,Bachelor,Valparaíso,29,no,3177
+143,31,46041,3,Bachelor,,44,yes,11319
+144,20,68264,4,High School,Concepción,56,no,15413
+145,18,54982,29,Bachelor,santiago,57,yes,19683
+146,22,126349,23,PhD,Santiago,43,yes,37781
+147,43,107576,2,Bachelor,santiago,59,yes,27937
+148,31,108786,10,,Valparaíso,52,yes,31282
+149,56,83016,3,PhD,Concepción,36,no,25982
+150,44,,25,Bachelor,Concepción,43,no,34317
+151,26,79794,26,High School,Valparaíso,56,yes,24691
+152,32,113979,26,Bachelor,Concepción,21,no,35201
+153,32,,5,PhD,Valparaíso,51,yes,18284
+154,43,63019,14,Bachelor,,43,no,21591
+155,59,125274,29,PhD,Concepción,28,no,33347
+156,30,79479,36,PhD,,23,no,26568
+157,68,5753,36,Bachelor,Valparaíso,36,yes,20186
+158,49,57259,36,PhD,santiago,36,yes,17598
+159,56,57336,34,PhD,Santiago,49,no,18981
+160,66,101111,22,Master,,59,yes,29422
+161,69,77528,5,PhD,Santiago,30,yes,24005
+162,49,137449,3,Bachelor,Concepción,40,no,43563
+163,21,109654,17,,santiago,40,yes,3057
+164,47,86428,8,PhD,Concepción,37,no,2761
+165,54,115097,28,,Concepción,48,no,40046
+166,40,67612,12,Master,Concepción,43,no,20817
+167,56,3363,16,High School,Concepción,29,yes,880
+168,62,5526,31,PhD,Santiago,36,no,24198
+169,32,8368,21,Bachelor,Valparaíso,37,no,2568
+170,60,74436,3,High School,,39,yes,22395
+171,46,10061,4,PhD,Valparaíso,56,yes,3002
+172,53,76885,36,High School,Valparaíso,37,yes,25469
+173,30,98701,12,High School,Santiago,36,yes,28474
+174,49,117524,33,Master,santiago,28,no,36917
+175,24,76808,21,High School,santiago,33,yes,26289
+176,68,93879,22,High School,Santiago,48,yes,27183
+177,39,3613,2,PhD,santiago,50,yes,8679
+178,45,76903,33,Master,Valparaíso,23,yes,23385
+179,19,49201,31,Bachelor,Santiago,37,no,12277
+180,59,83631,20,PhD,Valparaíso,39,yes,23261
+181,62,8590,20,Master,santiago,28,no,24039
+182,23,85817,10,Master,Santiago,32,yes,25604
+183,45,,38,Bachelor,santiago,34,no,24128
+184,45,137462,3,Master,Santiago,46,no,4483
+185,61,48299,0,Bachelor,santiago,34,yes,13981
+186,61,46771,27,PhD,Valparaíso,47,no,15811
+187,37,121374,23,High School,Valparaíso,56,yes,37172
+188,47,,34,,santiago,38,no,13378
+189,28,56383,12,,Santiago,45,no,13171
+190,45,137573,33,PhD,Valparaíso,45,no,44306
+191,42,104643,10,PhD,Valparaíso,44,yes,33588
+192,56,65138,35,Bachelor,,45,no,22898
+193,50,85438,16,High School,Concepción,45,yes,24998
+194,18,128647,34,PhD,Valparaíso,47,no,3337
+195,44,97291,17,Master,santiago,37,no,26212
+196,69,112154,39,PhD,Santiago,51,no,3195
+197,30,10012,21,,Concepción,22,no,32532
+198,58,,23,PhD,santiago,21,no,30635
+199,20,80994,18,Bachelor,Concepción,52,no,29229
+200,56,4.0142e+16,36,PhD,Valparaíso,100,yes,29528
+201,23,86676,38,Bachelor,Concepción,36,yes,32204
+202,25,98361,20,High School,Valparaíso,52,yes,26719
+203,44,,7,PhD,Valparaíso,31,no,23078
+204,26,83051,27,High School,Concepción,22,yes,24393
+205,54,72241,4,PhD,Concepción,45,no,21956
+206,50,82892,16,PhD,santiago,54,yes,22171
+207,68,48725,36,Bachelor,Concepción,27,yes,19556
+208,59,145149,35,,Concepción,55,no,41834
+209,61,61676,18,Bachelor,Concepción,26,no,13041
+210,41,70963,26,Bachelor,santiago,55,yes,2759
+211,32,59518,33,PhD,,35,yes,20133
+212,49,95393,10,PhD,santiago,43,yes,25051
+213,49,7510,11,PhD,santiago,20,yes,22193
+214,41,55905,20,Bachelor,Valparaíso,44,no,15161
+215,58,96422,10,Master,Concepción,29,yes,28864
+216,69,99791,38,Master,Concepción,35,no,33546
+217,66,78328,27,Bachelor,Valparaíso,35,no,26086
+218,66,63409,4,PhD,Concepción,27,yes,19444
+219,69,134777,16,High School,Valparaíso,48,no,40289
+220,29,,19,Bachelor,Concepción,58,yes,29577
+221,56,48148,11,PhD,Concepción,47,no,8278
+222,19,115351,5,Bachelor,Concepción,25,no,32109
+223,20,58606,16,,,35,yes,14746
+224,66,148547,18,PhD,Santiago,39,no,47703
+225,54,81991,25,Bachelor,Santiago,35,no,2293
+226,66,105333,31,Bachelor,,26,yes,28772
+227,34,2800,5,High School,Valparaíso,33,no,9638
+228,66,47896,35,High School,Valparaíso,45,no,12493
+229,19,113346,37,PhD,santiago,45,yes,33902
+230,19,,10,PhD,Concepción,33,yes,33367
+231,45,13106,32,Bachelor,Valparaíso,26,no,42759
+232,40,92129,23,Bachelor,Concepción,52,no,27116
+233,54,83632,22,Master,Valparaíso,45,no,24926
+234,49,122839,14,Bachelor,Valparaíso,39,yes,39494
+235,50,105253,26,Bachelor,Concepción,22,no,34425
+236,18,75093,10,PhD,,23,no,22795
+237,36,,16,Bachelor,Concepción,100,no,16005
+238,19,2071,13,PhD,Valparaíso,30,no,1823
+239,61,69058,26,Bachelor,Concepción,21,no,16527
+240,43,50342,17,PhD,Concepción,33,no,14762
+241,49,144943,27,High School,Concepción,49,yes,41953
+242,23,63741,3,Master,Valparaíso,31,yes,20411
+243,49,63057,6,,Santiago,45,no,18909
+244,21,41969,34,,Concepción,52,no,10932
+245,28,73342,8,PhD,Concepción,32,yes,22252
+246,34,63387,7,PhD,Concepción,33,yes,17451
+247,55,6172150000000001,16,High School,Concepción,100,yes,43173
+248,41,,16,PhD,Valparaíso,53,no,26162
+249,22,79778,32,,Santiago,45,no,19952
+250,69,76633,31,Bachelor,,40,no,29201
+251,51,99654,7,Master,Concepción,47,no,27407
+252,23,68692,18,High School,Valparaíso,55,yes,17483
+253,39,9668,37,High School,santiago,59,yes,36105
+254,28,120349,2,Bachelor,,21,yes,36822
+255,65,91502,4,Bachelor,Concepción,28,yes,29193
+256,33,73757,12,Bachelor,Valparaíso,42,no,24086
+257,50,56164,30,Bachelor,Valparaíso,34,no,17051
+258,26,73122,15,PhD,Valparaíso,32,yes,20329
+259,23,94077,31,PhD,Concepción,42,yes,27705
+260,33,41687,21,PhD,Valparaíso,36,yes,17663
+261,46,,28,Bachelor,Santiago,21,yes,31828
+262,20,8519,21,,Concepción,39,yes,29766
+263,37,7627,2,Bachelor,Valparaíso,39,no,21972
+264,53,63515,9,Master,Santiago,22,no,16798
+265,36,68091,20,PhD,Valparaíso,31,yes,16481
+266,43,94933,15,PhD,Valparaíso,59,yes,29994
+267,20,76795,11,High School,Concepción,21,yes,28251
+268,36,67472,1,Bachelor,Concepción,55,no,16534
+269,37,91714,23,Bachelor,Concepción,33,no,29544
+270,49,92705,34,Bachelor,,35,no,24685
+271,24,48771,29,Bachelor,Valparaíso,38,yes,13654
+272,69,94287,29,PhD,Valparaíso,53,no,2948
+273,58,142542,34,Bachelor,Valparaíso,25,yes,38778
+274,50,91741,18,Bachelor,Concepción,32,no,27728
+275,57,,7,Master,Santiago,55,no,7997
+276,56,84434,25,Bachelor,Concepción,41,no,27574
+277,35,3423,39,High School,Concepción,37,yes,10983
+278,57,159184,6,Bachelor,Santiago,31,yes,50254
+279,18,135892,29,PhD,Concepción,49,no,40399
+280,28,63352,6,Bachelor,santiago,59,yes,14038
+281,45,23858,2,High School,Concepción,26,yes,2277
+282,42,58041,0,Master,,51,yes,10665
+283,67,75475,35,PhD,Valparaíso,38,yes,25531
+284,40,,24,High School,Valparaíso,25,yes,19159
+285,48,,36,Bachelor,Santiago,39,yes,25808
+286,47,75311,0,PhD,Santiago,46,yes,26689
+287,59,83129,14,,Valparaíso,56,no,27919
+288,52,85741,36,PhD,Valparaíso,26,yes,25447
+289,24,5586,12,Master,Valparaíso,24,yes,20674
+290,33,,39,Bachelor,Concepción,30,no,17514
+291,43,40570,7,Master,Valparaíso,100,no,22636
+292,65,64225,4,PhD,Concepción,22,no,18402
+293,69,102687,8,Bachelor,Concepción,24,no,30243
+294,66,,0,Bachelor,santiago,42,yes,25413
+295,19,126625,35,,Valparaíso,56,no,36605
+296,18,100512,34,PhD,Valparaíso,28,no,33961
+297,65,107593,1,Bachelor,Concepción,34,yes,34272
+298,29,83314,39,PhD,Valparaíso,22,yes,27533
+299,22,83934,22,Bachelor,Santiago,48,yes,31139
+300,54,123283,8,Bachelor,santiago,25,no,40747
+301,49,70543,33,PhD,Concepción,36,yes,25302
+302,26,93669,13,Bachelor,Santiago,45,no,28049
+303,58,73344,3,Bachelor,Santiago,40,yes,22408
+304,52,73284,29,High School,santiago,27,yes,24467
+305,36,50778,30,PhD,,40,no,15973
+306,65,61437,37,Bachelor,Valparaíso,30,yes,18554
+307,33,56793,10,High School,Concepción,57,yes,9181
+308,20,94859,34,Bachelor,Concepción,27,yes,31771
+309,37,106005,7,PhD,Valparaíso,43,yes,34416
+310,41,,2,Master,Santiago,54,yes,18826
+311,50,85741,13,PhD,Valparaíso,33,no,27528
+312,41,,12,High School,Valparaíso,33,no,21022
+313,69,59731,31,Bachelor,Valparaíso,29,yes,1779
+314,28,101557,33,,Concepción,31,no,35429
+315,66,96313,18,High School,Valparaíso,57,no,25682
+316,25,32686,37,Bachelor,Valparaíso,53,no,7619
+317,53,72922,15,Bachelor,Valparaíso,29,yes,27461
+318,55,57949,1,PhD,,36,yes,16278
+319,57,70227,39,Bachelor,Concepción,36,yes,26038
+320,37,63239,16,PhD,Valparaíso,22,no,14536
+321,52,,33,Bachelor,Santiago,50,no,19746
+322,65,71752,15,Bachelor,Valparaíso,20,yes,19137
+323,42,71221,37,High School,,31,yes,21152
+324,52,107685,1,Master,Concepción,58,no,26986
+325,42,93929,1,Bachelor,Valparaíso,23,no,28877
+326,46,62403,25,High School,,32,yes,20635
+327,35,66111,12,,Valparaíso,53,no,16679
+328,63,92295,30,PhD,Concepción,40,no,25933
+329,35,9226,33,PhD,Valparaíso,41,no,26448
+330,19,64905,38,Bachelor,Concepción,23,no,17417
+331,52,7415,2,High School,Concepción,37,no,12918
+332,33,12617,7,Bachelor,Valparaíso,24,no,37466
+333,58,65336,22,PhD,Santiago,38,no,18649
+334,53,12777,13,PhD,Concepción,21,yes,37577
+335,50,107592,26,PhD,Valparaíso,31,yes,29922
+336,21,123135,28,Bachelor,Valparaíso,36,no,40052
+337,50,64273,38,,Concepción,29,no,27878
+338,31,75786,38,,Concepción,53,no,21074
+339,38,68771,0,Bachelor,,25,yes,2433
+340,65,108169,16,,Valparaíso,27,yes,33811
+341,37,65808,29,Bachelor,Valparaíso,30,no,20699
+342,25,9828,12,Bachelor,Valparaíso,31,yes,28432
+343,24,96957,20,High School,santiago,28,no,29277
+344,20,78799,18,Master,santiago,21,no,27568
+345,34,112466,18,PhD,Valparaíso,27,no,30686
+346,50,4134599999999999,24,Master,santiago,100,no,24583
+347,65,100852,21,PhD,,55,no,33953
+348,29,67632,30,PhD,Concepción,29,no,24161
+349,68,61914,16,Bachelor,Valparaíso,40,no,15206
+350,39,98279,22,Master,Santiago,39,yes,29256
+351,39,90771,31,Bachelor,,27,no,30425
+352,63,86083,9,PhD,Valparaíso,55,yes,27165
+353,47,71408,9,PhD,Valparaíso,48,no,23838
+354,55,11873,35,,Valparaíso,31,no,37902
+355,55,52085,7,Bachelor,Concepción,33,yes,16971
+356,62,50716,19,PhD,Valparaíso,40,yes,16393
+357,68,103554,31,Bachelor,,41,no,36535
+358,25,101502,13,PhD,santiago,40,yes,29035
+359,44,88844,27,,Valparaíso,49,no,27168
+360,44,72801,23,Master,,58,no,18785
+361,51,92561,14,PhD,Concepción,39,yes,24052
+362,38,615105,21,Bachelor,santiago,100,yes,38071
+363,47,142889,29,Bachelor,Valparaíso,42,yes,41304
+364,50,3859,3,Master,Valparaíso,26,yes,11034
+365,45,69527,12,Bachelor,Concepción,28,no,25751
+366,64,67956,22,PhD,Concepción,20,yes,25767
+367,50,120663,7,Master,Valparaíso,45,yes,42321
+368,22,17968,17,PhD,Concepción,57,yes,10013
+369,65,92846,11,Bachelor,,57,yes,34473
+370,36,36790,30,PhD,santiago,100,yes,24064
+371,21,120953,13,Bachelor,Valparaíso,29,no,33647
+372,52,117526,33,Master,Santiago,25,no,33407
+373,66,89138,17,Master,Valparaíso,36,yes,3106
+374,34,40507,33,High School,Valparaíso,57,yes,12817
+375,61,65653,10,,Valparaíso,43,no,19714
+376,45,6839,11,PhD,Concepción,29,yes,1884
+377,47,46839,14,Bachelor,Valparaíso,27,no,12924
+378,46,108865,30,,Concepción,40,no,34511
+379,63,43664,28,PhD,Valparaíso,25,yes,10834
+380,23,,25,Bachelor,,40,no,39961
+381,52,129071,17,High School,,58,yes,42945
+382,58,70373,31,Bachelor,santiago,43,yes,15401
+383,54,88212,21,PhD,Concepción,52,no,2185
+384,41,78193,37,High School,Concepción,37,no,26595
+385,46,102546,16,High School,Valparaíso,47,yes,34716
+386,66,111867,22,Bachelor,Valparaíso,51,no,3217
+387,63,,23,Bachelor,Valparaíso,31,yes,2047
+388,48,91728,7,Bachelor,Concepción,46,no,31244
+389,52,64485,5,Master,Concepción,29,no,16582
+390,50,90918,4,PhD,Concepción,51,yes,25372
+391,69,4203450000000001,28,Bachelor,,100,yes,26678
+392,38,,27,Bachelor,Santiago,44,yes,15632
+393,49,79649,10,,Concepción,30,no,21166
+394,40,7042,0,High School,Santiago,42,yes,17713
+395,50,64763,18,High School,Concepción,53,yes,24843
+396,20,51338,8,Bachelor,Concepción,59,no,1810
+397,35,81563,26,High School,Concepción,42,no,26652
+398,42,60488,33,High School,Santiago,48,yes,12277
+399,59,68222,3,PhD,Valparaíso,50,yes,21351
+400,48,106878,35,,Concepción,26,yes,34866
+401,20,95803,17,PhD,Valparaíso,59,yes,24577
+402,57,55531,14,Master,Valparaíso,52,no,17095
+403,63,88797,12,Master,Santiago,40,no,29594
+404,41,8332,18,High School,Concepción,21,yes,27184
+405,67,122542,5,PhD,santiago,37,yes,34232
+406,49,114579,11,High School,Valparaíso,52,yes,33923
+407,64,41656,36,Master,Valparaíso,56,no,15368
+408,39,101528,16,Bachelor,Concepción,53,yes,30377
+409,40,11163,22,Bachelor,Santiago,39,yes,37572
+410,19,93984,25,Bachelor,Concepción,54,no,29552
+411,44,71615,28,PhD,santiago,37,no,24403
+412,59,140335,32,PhD,,43,yes,45305
+413,19,96285,26,Bachelor,Valparaíso,27,yes,26445
+414,43,129414,24,,Santiago,49,no,39194
+415,34,113787,9,Bachelor,santiago,29,yes,33009
+416,57,91603,22,,Santiago,42,yes,30872
+417,50,65507,20,Bachelor,Concepción,30,no,21442
+418,26,79397,20,High School,Concepción,21,no,23834
+419,60,74452,12,Master,Valparaíso,45,no,1819
+420,65,49637,36,Bachelor,Santiago,55,yes,1080
+421,56,96257,32,Bachelor,,52,no,30368
+422,46,119184,23,Bachelor,Concepción,32,no,34114
+423,59,72542,10,Master,Concepción,59,yes,23081
+424,43,134091,16,Bachelor,Valparaíso,44,yes,35218
+425,52,4106,3,PhD,Concepción,23,no,16787
+426,67,106359,24,Bachelor,Valparaíso,38,no,34339
+427,42,121788,29,Master,Santiago,37,yes,37544
+428,41,74899,8,High School,Valparaíso,56,yes,26799
+429,30,75349,20,PhD,Concepción,49,no,2547
+430,24,106069,19,Master,Concepción,38,no,30586
+431,53,,18,,Valparaíso,42,yes,28088
+432,62,30065,18,PhD,Concepción,35,no,3327
+433,37,58916,11,PhD,Concepción,20,yes,21017
+434,18,79661,36,Bachelor,Concepción,31,no,2419
+435,25,45758,16,Master,Santiago,43,yes,7736
+436,63,68146,36,High School,Valparaíso,53,yes,17638
+437,33,46383,38,,Concepción,27,no,17888
+438,31,70746,27,PhD,,37,no,26675
+439,29,71584,34,PhD,Valparaíso,24,yes,22756
+440,68,88794,17,PhD,Concepción,45,no,23642
+441,40,77706,13,Master,Concepción,49,no,1872
+442,32,9257,34,Bachelor,Valparaíso,32,no,33075
+443,45,89589,6,High School,santiago,38,yes,27765
+444,51,105783,12,Master,Concepción,48,no,30384
+445,19,101845,17,Bachelor,Santiago,22,no,29259
+446,49,99203,36,Master,santiago,45,yes,32676
+447,40,157622,12,PhD,Concepción,59,no,4864
+448,39,88685,35,PhD,Santiago,31,no,25046
+449,68,144839,30,Master,santiago,21,yes,41105
+450,42,90305,1,,Santiago,30,yes,23266
+451,39,77929,15,Bachelor,Santiago,47,no,21784
+452,39,70671,8,PhD,santiago,37,no,18792
+453,66,117743,8,Master,santiago,32,yes,39937
+454,69,121013,37,High School,Santiago,56,yes,35523
+455,59,94995,10,Bachelor,Concepción,41,no,2443
+456,23,108339,21,PhD,santiago,31,no,29351
+457,32,,32,High School,Concepción,21,no,15049
+458,60,41281,35,,Valparaíso,56,yes,7548
+459,54,111158,22,High School,Valparaíso,26,no,33747
+460,50,7683,33,PhD,Santiago,45,yes,1979
+461,25,98733,8,,Santiago,45,yes,32596
+462,61,,23,High School,Valparaíso,43,yes,1926
+463,61,121425,7,High School,Concepción,31,no,42521
+464,22,4149,6,Bachelor,Valparaíso,35,no,11362
+465,56,4536,35,Master,santiago,42,no,5123
+466,21,116108,17,PhD,Valparaíso,59,yes,38875
+467,23,14754,2,,,28,no,5472
+468,62,89464,27,PhD,Valparaíso,51,yes,2914
+469,49,77317,5,PhD,,34,yes,19757
+470,69,61601,20,Bachelor,Concepción,56,yes,18232
+471,47,75002,27,,santiago,32,yes,2377
+472,64,58812,39,,,24,yes,1840
+473,52,118556,0,,Santiago,30,yes,29764
+474,57,125112,35,Master,Concepción,29,no,4701
+475,69,62857,20,PhD,santiago,32,yes,21725
+476,33,86888,34,High School,Santiago,34,no,28348
+477,30,46873,12,,Concepción,26,yes,18084
+478,67,106826,9,Bachelor,Valparaíso,59,no,3325
+479,59,,9,High School,Concepción,47,no,29331
+480,47,3.6309e+16,12,High School,Valparaíso,100,no,25115
+481,36,80422,36,High School,Valparaíso,54,no,27403
+482,34,77656,37,,,34,yes,22549
+483,36,39539,23,Bachelor,Valparaíso,55,yes,14282
+484,45,11865,1,High School,Valparaíso,40,yes,34123
+485,43,60826,21,Bachelor,Valparaíso,25,yes,19423
+486,54,60996,16,PhD,Valparaíso,20,no,20498
+487,43,7624,35,Bachelor,Concepción,23,no,28267
+488,40,,13,Bachelor,Santiago,30,no,29579
+489,26,65217,9,PhD,santiago,45,yes,2021
+490,29,31195,34,PhD,Valparaíso,56,no,15986
+491,18,57825,24,Bachelor,,42,yes,17179
+492,18,90604,2,Bachelor,Concepción,48,no,26911
+493,64,,37,Bachelor,Valparaíso,40,no,47516
+494,51,48502,16,Master,Valparaíso,46,no,16343
+495,49,47587,11,Bachelor,Valparaíso,58,no,9244
+496,65,42185,23,High School,,59,no,10239
+497,42,39082,28,Bachelor,Concepción,32,yes,14553
+498,57,110142,24,High School,Santiago,42,no,34672
+499,62,117367,35,High School,,35,yes,36748
+500,18,,25,High School,,49,yes,32087
+501,33,68307,37,High School,Santiago,23,yes,2003
+502,56,124779,0,High School,Valparaíso,59,yes,3603
+503,22,84348,19,PhD,Concepción,35,yes,19665
+504,39,107236,27,Bachelor,Concepción,50,yes,36003
+505,46,67089,15,Bachelor,Concepción,44,yes,1760
+506,20,81106,16,Master,Valparaíso,31,yes,27683
+507,29,49066,39,,santiago,45,no,18626
+508,43,95731,27,Bachelor,Valparaíso,56,no,35997
+509,33,84773,11,PhD,Valparaíso,52,yes,2689
+510,68,57636,26,Bachelor,Concepción,47,yes,16583
+511,54,57972,29,PhD,Valparaíso,28,yes,19642
+512,39,120399,33,Bachelor,,31,no,34872
+513,46,129292,36,,santiago,24,no,41065
+514,31,74672,5,Master,,47,yes,21109
+515,45,81694,6,Master,,54,yes,23517
+516,22,90003,31,PhD,Santiago,24,no,25376
+517,64,83701,31,Bachelor,santiago,53,no,26502
+518,66,,24,Master,santiago,53,yes,14056
+519,47,90697,32,High School,,32,yes,23213
+520,63,27803,6,Bachelor,Concepción,58,yes,5415
+521,69,61683,11,Bachelor,Concepción,33,yes,18899
+522,22,92636,15,Bachelor,Concepción,30,no,20899
+523,29,9500,15,High School,Valparaíso,57,no,33331
+524,33,59748,35,High School,Concepción,23,yes,17081
+525,43,68539,12,Master,Valparaíso,52,yes,17307
+526,43,65154,6,Bachelor,Concepción,26,yes,18704
+527,65,77429,35,Bachelor,santiago,27,no,24851
+528,38,7933,8,,Concepción,56,yes,2081
+529,56,96712,31,PhD,Concepción,29,yes,32925
+530,53,67078,10,PhD,Concepción,34,yes,21143
+531,50,89335,7,Bachelor,Santiago,57,no,23499
+532,47,92675,32,Bachelor,,34,yes,27155
+533,54,84957,22,PhD,,24,no,21557
+534,40,,24,,santiago,48,yes,18533
+535,27,84516,7,Bachelor,,38,yes,26108
+536,22,98794,21,PhD,Valparaíso,29,yes,27628
+537,53,10098,3,Bachelor,Concepción,31,no,35237
+538,51,125384,39,Master,Concepción,23,yes,39318
+539,69,55249,2,Bachelor,Valparaíso,50,yes,11616
+540,48,6900,28,PhD,Santiago,37,no,1793
+541,27,39663,28,High School,,35,no,15758
+542,36,103275,33,PhD,Concepción,59,no,31223
+543,49,71637,33,,Valparaíso,55,yes,25017
+544,18,85155,27,Master,Concepción,44,no,24917
+545,22,64892,12,High School,,42,yes,17547
+546,62,71832,14,Bachelor,Valparaíso,31,no,24988
+547,21,11058,22,PhD,Concepción,53,no,30638
+548,33,97356,25,Bachelor,Concepción,55,no,30824
+549,41,77212,3,PhD,santiago,56,yes,21558
+550,33,99195,25,High School,Valparaíso,22,yes,33205
+551,19,,39,PhD,Concepción,28,yes,3677
+552,66,,8,,Valparaíso,37,yes,19548
+553,45,43273,4,PhD,Concepción,54,yes,1046
+554,49,57521,31,PhD,,53,yes,19744
+555,44,46487,19,Bachelor,Valparaíso,33,yes,1099
+556,37,109111,10,Master,Valparaíso,23,yes,37623
+557,41,113453,14,Bachelor,santiago,48,yes,38114
+558,29,119659,31,PhD,Valparaíso,34,no,3377
+559,67,29511,27,PhD,Concepción,47,no,4514
+560,52,106785,21,Bachelor,Concepción,35,yes,28904
+561,50,135305,16,PhD,santiago,31,yes,37335
+562,50,10780,25,PhD,Santiago,24,yes,35515
+563,68,26219,6,PhD,Valparaíso,53,yes,11753
+564,60,124207,25,High School,Valparaíso,20,no,40482
+565,54,81042,24,PhD,,58,no,23644
+566,29,7419,9,Bachelor,Valparaíso,51,yes,22714
+567,20,91277,18,PhD,Valparaíso,45,no,24774
+568,18,53775,10,PhD,Valparaíso,36,no,19204
+569,50,8007,12,Bachelor,santiago,46,yes,24997
+570,57,120511,7,,Valparaíso,43,yes,37963
+571,27,9556,39,Bachelor,,54,yes,27355
+572,60,8146,3,Bachelor,santiago,58,yes,22922
+573,61,8224,30,Master,Concepción,45,no,27447
+574,46,50465,27,Bachelor,Concepción,57,yes,1968
+575,30,7625,10,Bachelor,santiago,42,no,20711
+576,29,39143,0,High School,Valparaíso,41,yes,13264
+577,48,105561,37,PhD,Concepción,23,no,30922
+578,63,25357,23,High School,santiago,28,yes,14549
+579,19,101373,30,PhD,Santiago,23,yes,30207
+580,68,104485,25,PhD,Santiago,26,no,34006
+581,67,112969,4,Master,Concepción,42,no,33748
+582,52,82171,19,Bachelor,Valparaíso,21,no,32997
+583,40,102916,10,High School,Concepción,43,yes,31205
+584,34,76006,32,Bachelor,Valparaíso,59,no,21677
+585,43,50333,37,High School,Valparaíso,50,no,17868
+586,25,118268,26,PhD,,50,no,37632
+587,46,77578,33,PhD,Santiago,59,no,23271
+588,43,44762,14,Bachelor,Santiago,53,no,9784
+589,27,6833,31,Master,santiago,43,no,19605
+590,43,69317,20,High School,Concepción,45,no,2354
+591,51,,4,High School,Concepción,35,no,2172
+592,68,138676,5,PhD,Concepción,32,no,40469
+593,58,9306,37,Master,Concepción,34,yes,32073
+594,24,85171,21,PhD,,46,yes,25401
+595,21,141394,17,PhD,Concepción,23,no,49329
+596,67,104472,13,High School,Valparaíso,35,yes,26058
+597,62,86356,9,Bachelor,santiago,49,yes,22493
+598,28,,12,Bachelor,Valparaíso,49,no,13081
+599,46,87905,30,Bachelor,santiago,55,no,32753
+600,53,7834,29,Master,Concepción,22,no,21677
+601,42,82286,2,Master,Valparaíso,41,no,18005
+602,38,11286,29,,Valparaíso,41,no,32652
+603,53,,5,Bachelor,Valparaíso,31,no,15399
+604,27,92839,28,,santiago,40,yes,26637
+605,54,103723,7,,Valparaíso,23,no,31131
+606,26,63447,32,Bachelor,Concepción,50,yes,22049
+607,41,59434,16,Bachelor,,50,no,17106
+608,52,76241,10,High School,Concepción,42,no,22608
+609,66,68459,12,PhD,Valparaíso,39,yes,18613
+610,52,108808,10,Bachelor,Concepción,34,no,27927
+611,65,54956,30,Bachelor,Concepción,42,no,11607
+612,53,81712,27,Bachelor,Concepción,47,yes,2383
+613,35,143651,5,Bachelor,,35,no,42899
+614,66,90326,15,PhD,Valparaíso,56,yes,25412
+615,56,94482,3,High School,santiago,40,no,22267
+616,49,,34,PhD,Valparaíso,34,no,34329
+617,41,68426,25,,,36,yes,25946
+618,40,52965,11,Bachelor,Valparaíso,56,no,14976
+619,49,84413,10,High School,Concepción,32,yes,23445
+620,54,,36,Bachelor,Valparaíso,38,yes,26849
+621,29,39545,24,PhD,Concepción,49,yes,877
+622,66,89377,17,High School,Concepción,37,no,23416
+623,30,106746,18,PhD,Valparaíso,33,no,33618
+624,40,57176,22,Bachelor,Santiago,55,yes,20124
+625,42,90889,37,Master,Valparaíso,55,no,27575
+626,52,102307,17,,Concepción,39,no,24841
+627,58,94667,25,PhD,,38,no,2995
+628,47,,5,High School,Concepción,26,yes,3504
+629,34,7388,3,Bachelor,Santiago,23,no,21122
+630,66,51812,28,PhD,Concepción,53,yes,1535
+631,37,68821,33,Bachelor,santiago,21,no,19258
+632,65,65349,16,High School,Santiago,24,no,21369
+633,42,77994,15,,Concepción,29,yes,21555
+634,39,107332,1,PhD,Santiago,51,no,34294
+635,30,47204,33,High School,Concepción,32,yes,13198
+636,36,83606,7,PhD,Valparaíso,58,no,25297
+637,66,53415,12,Bachelor,Santiago,24,yes,16005
+638,53,61499,7,PhD,santiago,29,no,22885
+639,29,93969,29,PhD,Valparaíso,29,no,30289
+640,58,50251,31,PhD,Concepción,57,no,19646
+641,36,98356,35,Bachelor,,46,yes,30663
+642,29,46196,29,PhD,Santiago,40,yes,13997
+643,26,96675,0,Bachelor,santiago,27,yes,28348
+644,24,41262,38,PhD,Valparaíso,20,no,11564
+645,45,64555,16,PhD,Santiago,47,yes,20822
+646,31,127412,19,PhD,Santiago,58,yes,35943
+647,48,122714,23,High School,Valparaíso,33,yes,37642
+648,69,,21,Bachelor,santiago,40,yes,23722
+649,36,89749,28,Bachelor,Concepción,49,yes,32095
+650,64,110102,21,Master,Concepción,40,yes,33769
+651,33,97032,8,High School,,28,yes,31533
+652,22,73163,36,Bachelor,Valparaíso,36,yes,25255
+653,52,61284,9,Master,Santiago,24,yes,17208
+654,29,101703,35,Bachelor,Valparaíso,50,yes,37584
+655,42,108268,36,Master,Concepción,59,no,31372
+656,69,122893,27,High School,Concepción,57,no,37351
+657,38,37819,27,PhD,Valparaíso,38,yes,16298
+658,53,48672,20,High School,Santiago,55,no,1879
+659,40,109048,23,Master,santiago,52,no,32867
+660,33,,39,PhD,,32,yes,16645
+661,56,110964,1,Bachelor,Concepción,33,yes,32007
+662,62,74627,7,Bachelor,Valparaíso,52,yes,20232
+663,59,66977,26,,Concepción,48,no,16795
+664,56,,21,Bachelor,Valparaíso,55,yes,27662
+665,31,46366,36,PhD,santiago,29,no,17617
+666,48,10060,26,High School,Valparaíso,50,yes,28776
+667,22,122241,28,Bachelor,Valparaíso,25,no,38377
+668,52,101764,2,Master,Santiago,20,no,38182
+669,40,73837,12,Bachelor,Valparaíso,26,yes,25671
+670,46,41549,9,Bachelor,Valparaíso,46,yes,929
+671,60,4251,35,,Valparaíso,40,no,16708
+672,28,,8,Bachelor,Santiago,47,no,10797
+673,35,79693,26,High School,Valparaíso,35,yes,15822
+674,64,82835,33,Master,Valparaíso,42,yes,25599
+675,29,101711,0,Bachelor,Santiago,39,no,34423
+676,26,35099,31,PhD,Valparaíso,57,yes,15132
+677,27,11278,24,PhD,,44,no,35286
+678,61,9736,28,Bachelor,Santiago,47,yes,28043
+679,34,71829,6,Bachelor,santiago,24,yes,22828
+680,55,50256,2,,Valparaíso,40,yes,13569
+681,24,,19,,santiago,100,no,32038
+682,63,,19,Master,Concepción,25,yes,25385
+683,30,7950,29,,Concepción,48,no,22762
+684,57,8959,34,Bachelor,Concepción,38,yes,31199
+685,59,5717,34,,Concepción,52,no,16034
+686,26,72945,38,PhD,Concepción,20,no,29559
+687,67,101633,26,Bachelor,Santiago,22,yes,26428
+688,44,99102,25,Bachelor,Valparaíso,40,no,2731
+689,19,99328,13,High School,Concepción,54,no,28902
+690,22,51121,16,Bachelor,,59,no,9004
+691,46,74085,17,High School,santiago,22,no,14923
+692,54,7009,28,Bachelor,santiago,44,yes,15621
+693,55,,19,Bachelor,santiago,57,yes,26122
+694,36,88391,26,,Concepción,39,yes,26237
+695,25,83886,17,PhD,santiago,53,no,25955
+696,65,141643,3,PhD,Valparaíso,40,no,41252
+697,62,7273,0,PhD,Concepción,42,yes,21878
+698,18,69804,0,High School,santiago,25,yes,19091
+699,39,51081,25,PhD,,32,no,18079
+700,69,41554,19,PhD,,42,yes,14359
+701,34,,22,Bachelor,Valparaíso,28,yes,14408
+702,24,62033,9,PhD,Valparaíso,36,no,19939
+703,42,112752,10,PhD,Concepción,21,yes,33334
+704,62,80979,4,PhD,santiago,38,no,19167
+705,21,84833,0,Bachelor,Concepción,38,yes,27403
+706,53,77593,16,PhD,Concepción,26,no,20837
+707,23,89133,21,Bachelor,Concepción,39,no,29691
+708,48,115052,33,Bachelor,Concepción,28,no,36578
+709,36,30152,28,Bachelor,Valparaíso,36,no,9472
+710,61,,3,Bachelor,Santiago,46,no,26736
+711,56,17124,4,Bachelor,Santiago,21,yes,9536
+712,44,80705,10,Bachelor,Valparaíso,55,yes,22522
+713,27,134798,20,PhD,Valparaíso,38,yes,42583
+714,43,97016,34,Bachelor,Concepción,36,no,29743
+715,36,,11,Bachelor,Concepción,24,yes,26053
+716,56,130049,25,High School,Valparaíso,58,no,39683
+717,20,62423,18,Bachelor,santiago,37,no,18967
+718,62,90849,6,High School,Valparaíso,26,yes,26234
+719,30,94453,6,Master,,36,no,2775
+720,67,6694,25,Bachelor,Valparaíso,58,yes,21453
+721,45,69147,39,Bachelor,Valparaíso,55,no,23088
+722,37,66406,4,PhD,Valparaíso,59,no,19072
+723,45,82183,20,Bachelor,Santiago,23,yes,27058
+724,25,93667,13,PhD,Valparaíso,57,no,26338
+725,58,83081,3,Master,Valparaíso,44,yes,30869
+726,56,97737,22,Bachelor,Valparaíso,24,no,34398
+727,18,30771,19,PhD,Valparaíso,49,yes,11489
+728,20,74544,14,High School,,31,no,16618
+729,30,,28,PhD,Concepción,23,yes,19083
+730,45,437715,7,Bachelor,Santiago,100,yes,24743
+731,66,87173,18,Master,,48,no,23156
+732,42,77109,38,Master,santiago,28,yes,23386
+733,50,92757,27,PhD,Valparaíso,23,no,26114
+734,55,104945,26,Bachelor,santiago,43,no,33444
+735,23,78487,3,Bachelor,Valparaíso,33,yes,27884
+736,61,53708,14,Bachelor,Concepción,24,yes,1881
+737,62,40469,34,Master,Concepción,37,yes,21388
+738,49,80903,36,Bachelor,Concepción,38,yes,2065
+739,62,86047,0,PhD,Valparaíso,31,yes,23676
+740,64,55762,2,Master,Concepción,37,no,1326
+741,38,98144,23,Bachelor,Concepción,36,yes,33561
+742,33,68526,26,Bachelor,Valparaíso,49,no,20216
+743,38,38589,39,,Valparaíso,43,yes,13235
+744,28,111411,35,Master,Valparaíso,30,yes,36474
+745,54,,33,High School,Concepción,54,yes,28786
+746,53,2961,28,Master,Concepción,42,no,7579
+747,52,65935,23,PhD,Valparaíso,36,yes,23202
+748,36,,23,Bachelor,Concepción,20,no,18594
+749,37,120987,3,,Concepción,34,no,30625
+750,35,,2,Master,santiago,51,no,19629
+751,64,42603,33,Bachelor,Concepción,28,yes,13012
+752,58,102053,22,PhD,Santiago,34,no,31536
+753,66,49231,22,Bachelor,Santiago,47,yes,14717
+754,31,73491,4,Master,Santiago,43,no,19545
+755,32,60756,30,Bachelor,Concepción,54,yes,21465
+756,48,65989,5,Bachelor,Valparaíso,41,no,1884
+757,18,103431,36,Bachelor,Valparaíso,46,yes,32538
+758,20,118033,9,Bachelor,Valparaíso,38,yes,33417
+759,33,48141,39,High School,,31,yes,20299
+760,40,,6,,Concepción,39,no,27041
+761,28,61681,38,Bachelor,Valparaíso,20,no,20228
+762,29,62458,37,Master,santiago,40,yes,22892
+763,27,92266,20,PhD,Santiago,20,no,2912
+764,49,54302,19,Master,Concepción,29,no,17426
+765,33,91765,2,Bachelor,Santiago,51,no,20689
+766,25,98253,21,Bachelor,Valparaíso,58,no,31408
+767,55,69187,3,High School,Concepción,41,no,20253
+768,29,113177,27,Master,Valparaíso,37,no,36188
+769,41,48179,11,High School,santiago,51,no,14533
+770,45,113635,37,High School,Valparaíso,46,yes,33343
+771,25,3140,35,PhD,,47,yes,12913
+772,45,147493,4,PhD,santiago,37,no,44302
+773,53,69845,12,Bachelor,santiago,58,yes,16525
+774,43,50942,22,High School,Valparaíso,48,yes,19348
+775,25,74183,29,,Valparaíso,37,yes,18673
+776,67,53838,36,Bachelor,Concepción,27,no,20114
+777,45,89674,24,Bachelor,Valparaíso,50,no,31563
+778,45,114191,26,PhD,Santiago,53,no,31178
+779,54,55164,13,,Concepción,26,no,16311
+780,58,94485,35,Bachelor,Concepción,55,no,28348
+781,53,,38,Bachelor,,37,yes,13152
+782,44,105824,15,Bachelor,Concepción,57,no,36848
+783,34,90406,21,Master,,28,yes,24328
+784,26,,20,Bachelor,Concepción,28,no,31592
+785,50,76941,20,Bachelor,Concepción,27,yes,28052
+786,37,69121,7,Bachelor,Santiago,54,no,19037
+787,30,100403,15,PhD,Valparaíso,37,no,27324
+788,45,,30,Bachelor,Concepción,24,no,15999
+789,65,36429,9,Bachelor,Concepción,33,no,13136
+790,46,79876,31,,Concepción,47,no,23394
+791,30,7026,33,Bachelor,Valparaíso,49,no,23411
+792,63,93846,8,High School,Santiago,23,yes,23964
+793,52,107289,16,Bachelor,Valparaíso,58,no,27864
+794,23,93325,10,Master,Santiago,39,yes,26397
+795,35,105298,31,Bachelor,santiago,44,no,34029
+796,68,88026,9,PhD,Santiago,47,yes,28202
+797,22,92365,21,Master,santiago,31,yes,24593
+798,64,77084,16,Bachelor,,21,yes,25678
+799,42,91626,3,High School,Santiago,33,yes,27477
+800,19,84166,24,Bachelor,Concepción,41,yes,22992
+801,27,88129,20,High School,Valparaíso,50,yes,22436
+802,47,75832,36,High School,Santiago,42,no,24399
+803,67,100223,37,Bachelor,Concepción,39,yes,35006
+804,62,62239,0,Master,Concepción,57,no,17638
+805,22,79541,24,Master,Concepción,23,no,21798
+806,50,112795,35,High School,Concepción,34,yes,29304
+807,18,56282,16,Master,Valparaíso,43,yes,21413
+808,35,25954,23,High School,Concepción,44,no,11182
+809,49,89161,1,High School,santiago,20,yes,27305
+810,64,73576,39,Bachelor,Valparaíso,26,yes,27937
+811,66,105272,14,PhD,Concepción,50,yes,31953
+812,28,76737,31,Bachelor,Valparaíso,31,yes,22358
+813,38,64892,38,Bachelor,Santiago,24,yes,22553
+814,43,78105,5,PhD,Valparaíso,57,yes,20052
+815,42,107327,0,Bachelor,santiago,31,yes,28591
+816,39,94384,22,Bachelor,Santiago,58,no,3057
+817,44,19152,38,,Valparaíso,37,yes,9473
+818,66,84644,16,Bachelor,Concepción,21,no,21952
+819,30,85894,33,Master,Concepción,29,no,23128
+820,50,,28,Bachelor,Valparaíso,34,no,23248
+821,51,64728,8,Master,Concepción,49,no,16704
+822,58,109863,12,PhD,Santiago,36,yes,34268
+823,52,111101,5,PhD,Valparaíso,23,no,33264
+824,18,24921,5,PhD,Santiago,26,no,10701
+825,38,60051,19,PhD,Concepción,50,no,18917
+826,65,76382,2,,Santiago,58,no,19921
+827,23,103713,16,Master,Valparaíso,53,no,25181
+828,45,80871,11,PhD,Concepción,25,yes,2485
+829,34,6291,0,PhD,Valparaíso,57,yes,12602
+830,22,97738,16,High School,santiago,53,no,27091
+831,48,74717,2,Bachelor,,34,yes,1967
+832,22,77065,25,Bachelor,santiago,33,yes,22184
+833,55,79321,14,PhD,Concepción,25,no,20048
+834,20,94358,35,Master,Valparaíso,56,no,26762
+835,40,72286,31,High School,Valparaíso,51,no,25654
+836,54,97174,31,PhD,Santiago,22,yes,33692
+837,54,78173,3,Bachelor,Concepción,22,no,27759
+838,27,53325,17,PhD,Valparaíso,41,yes,16058
+839,27,79081,18,Bachelor,Santiago,41,yes,24618
+840,36,5462,34,Bachelor,Santiago,29,yes,20988
+841,34,81025,39,PhD,santiago,22,no,21406
+842,38,100737,13,PhD,Valparaíso,31,yes,32668
+843,31,53159,32,Bachelor,Santiago,48,no,20495
+844,26,89107,13,Bachelor,santiago,36,no,23995
+845,63,59274,33,Master,,26,no,2306
+846,18,85043,3,High School,santiago,32,no,31196
+847,68,101505,23,High School,santiago,21,no,33515
+848,62,26762,28,Master,Santiago,23,yes,10752
+849,30,52138,18,Bachelor,Concepción,29,yes,12602
+850,21,70776,5,Bachelor,Concepción,58,yes,2353
+851,18,,32,PhD,Concepción,100,yes,24026
+852,66,7584,39,,Concepción,36,yes,25091
+853,57,78853,18,Bachelor,santiago,25,no,25469
+854,49,131075,0,PhD,Concepción,38,no,28674
+855,51,49689,4,High School,Santiago,24,yes,15844
+856,45,108387,26,Bachelor,Valparaíso,51,yes,40661
+857,48,71251,15,Bachelor,santiago,29,yes,1527
+858,25,93737,5,Bachelor,santiago,28,no,27649
+859,56,133224,39,Bachelor,Concepción,46,no,35156
+860,43,97217,12,Master,Santiago,32,no,26443
+861,51,89312,34,Bachelor,Valparaíso,38,yes,21944
+862,20,119978,18,High School,santiago,40,yes,36572
+863,67,10812,11,Bachelor,,43,yes,34507
+864,29,60015,15,PhD,Valparaíso,57,yes,18844
+865,18,87363,9,PhD,Concepción,23,no,23408
+866,61,37063,24,Bachelor,Santiago,43,yes,9631
+867,22,66496,19,PhD,Valparaíso,54,yes,20636
+868,47,,30,PhD,Santiago,22,yes,24719
+869,47,64947,3,High School,Concepción,23,no,15188
+870,34,86834,22,PhD,Santiago,56,no,25313
+871,65,79665,1,Bachelor,,59,yes,19935
+872,64,,21,PhD,Valparaíso,54,no,29228
+873,40,,36,PhD,Santiago,50,no,25515
+874,32,56496,7,PhD,Valparaíso,44,no,24212
+875,54,116953,6,PhD,Santiago,59,no,3522
+876,38,67608,13,Bachelor,Valparaíso,32,no,2223
+877,31,9650,2,,Concepción,23,yes,26792
+878,19,115881,15,Bachelor,Concepción,33,yes,33242
+879,28,84067,18,Bachelor,Valparaíso,32,yes,29332
+880,68,58592,17,Master,santiago,46,no,16679
+881,56,75535,15,Bachelor,santiago,25,no,23129
+882,55,105439,7,PhD,,36,no,34931
+883,51,85156,32,Bachelor,Concepción,55,no,25241
+884,55,49871,11,Master,Valparaíso,59,yes,18833
+885,67,94916,10,Master,santiago,54,yes,29614
+886,51,99238,4,Master,Concepción,36,yes,30618
+887,35,71117,26,High School,santiago,21,yes,20271
+888,47,95256,11,Bachelor,Concepción,32,yes,30014
+889,32,86125,16,PhD,Santiago,21,yes,2493
+890,44,75064,5,Bachelor,,47,no,23237
+891,68,47662,32,High School,Concepción,45,no,14693
+892,51,,4,PhD,Santiago,41,yes,34365
+893,69,9898,27,PhD,Concepción,22,no,30509
+894,55,94597,13,PhD,,54,yes,34063
+895,50,118613,4,Master,Valparaíso,31,yes,34337
+896,41,,32,Bachelor,Valparaíso,43,no,30225
+897,32,97164,18,PhD,Concepción,24,yes,30608
+898,47,24669,21,Bachelor,Concepción,39,yes,10904
+899,59,109922,4,High School,santiago,58,yes,35227
+900,68,82077,1,High School,Concepción,58,no,24013
+901,34,87812,29,Bachelor,Valparaíso,32,no,28171
+902,22,87983,38,PhD,Concepción,31,no,28697
+903,46,99346,3,,Valparaíso,32,no,2608
+904,21,108054,32,Bachelor,Concepción,29,yes,36508
+905,27,95856,12,High School,,52,no,24543
+906,34,91882,19,High School,Valparaíso,59,no,24107
+907,27,85788,6,Master,Santiago,35,no,25501
+908,34,-379,14,Bachelor,Valparaíso,54,yes,-2477
+909,37,7281,22,Master,santiago,22,no,24891
+910,41,,13,Bachelor,Concepción,24,no,1845
+911,22,,22,High School,Valparaíso,45,yes,33695
+912,51,,18,PhD,Concepción,30,yes,25566
+913,23,68547,28,PhD,Concepción,26,yes,21524
+914,19,71057,19,High School,Concepción,29,yes,2153
+915,30,,28,Bachelor,santiago,53,no,22052
+916,60,69704,23,Bachelor,Valparaíso,22,yes,20331
+917,60,43886,17,Bachelor,Concepción,27,no,15044
+918,65,38468,9,High School,Santiago,50,no,9951
+919,28,80726,7,Bachelor,santiago,30,no,25255
+920,68,106883,25,PhD,Valparaíso,26,no,35183
+921,64,66558,28,Bachelor,Valparaíso,21,no,19344
+922,40,87586,9,PhD,Santiago,25,yes,23909
+923,33,98357,16,High School,Concepción,51,no,30716
+924,48,55166,1,Bachelor,santiago,39,no,11857
+925,28,79501,5,PhD,Santiago,53,no,26375
+926,33,63337,4,PhD,Concepción,35,yes,18534
+927,25,120153,27,Bachelor,,44,no,36172
+928,21,,4,PhD,Valparaíso,31,no,36936
+929,57,55191,17,PhD,santiago,26,yes,18339
+930,21,448235,25,,Concepción,100,no,27004
+931,42,10669,19,Bachelor,Valparaíso,36,no,34873
+932,20,101208,26,Bachelor,santiago,30,yes,29045
+933,49,82039,11,PhD,Valparaíso,25,no,26799
+934,20,112664,6,Bachelor,santiago,42,no,30023
+935,44,,2,,Valparaíso,46,no,17928
+936,46,72423,9,Bachelor,Concepción,25,no,20693
+937,49,58059,33,,Valparaíso,57,no,13994
+938,67,99562,24,Bachelor,,21,yes,31419
+939,68,,34,,Valparaíso,41,yes,20407
+940,36,75719,15,PhD,,39,yes,18058
+941,38,95442,1,PhD,Valparaíso,44,no,21462
+942,22,97456,23,Bachelor,Valparaíso,34,no,2925
+943,35,57322,9,PhD,Valparaíso,48,no,21541
+944,45,106416,37,PhD,Concepción,27,yes,34198
+945,59,91392,21,High School,Concepción,56,no,25343
+946,39,52957,25,,Santiago,52,no,19343
+947,38,46807,38,,Valparaíso,41,no,17844
+948,23,79605,26,PhD,Santiago,24,yes,28516
+949,18,101252,28,PhD,Valparaíso,58,yes,32667
+950,22,101893,37,Bachelor,Valparaíso,37,no,34336
+951,58,88904,19,,Concepción,57,no,28675
+952,29,,26,Bachelor,Santiago,56,no,23113
+953,43,92793,19,High School,Valparaíso,49,yes,22896
+954,63,,18,,Concepción,50,yes,15922
+955,51,122175,19,Bachelor,Valparaíso,29,yes,40337
+956,66,121848,34,Master,Concepción,34,no,36431
+957,31,,1,PhD,Valparaíso,37,yes,2609
+958,43,84933,29,PhD,Santiago,42,no,22593
+959,62,69714,33,,Santiago,52,no,19871
+960,44,,21,Bachelor,Concepción,35,yes,28288
+961,26,62717,2,Bachelor,Valparaíso,57,no,19253
+962,43,,5,High School,santiago,54,yes,5117
+963,64,12147,14,Bachelor,Valparaíso,53,no,1698
+964,39,60013,26,Bachelor,Valparaíso,47,no,2089
+965,64,83909,9,Bachelor,Valparaíso,21,yes,26178
+966,47,88299,8,High School,santiago,49,no,27256
+967,60,67831,32,PhD,Santiago,32,no,25894
+968,65,41773,31,Bachelor,Concepción,100,no,24399
+969,34,73144,5,Master,Concepción,24,no,21566
+970,43,55017,35,PhD,Valparaíso,47,no,18969
+971,53,78656,1,PhD,santiago,58,no,19872
+972,18,100324,28,Bachelor,,39,no,31404
+973,25,,3,Bachelor,,43,no,16201
+974,66,5616,0,Bachelor,Santiago,46,yes,2426
+975,52,53269,18,Master,Concepción,49,yes,1620
+976,69,31587,25,Bachelor,santiago,46,no,13277
+977,32,67995,24,Bachelor,Concepción,45,no,23188
+978,64,97852,9,,Concepción,26,yes,25816
+979,39,84348,14,,Concepción,57,no,20218
+980,31,75769,21,PhD,Santiago,24,yes,24042
+981,43,83227,20,High School,Santiago,42,yes,2890
+982,45,67775,21,Master,Concepción,47,yes,21306
+983,40,31303,35,High School,Valparaíso,53,no,10317
+984,31,99593,33,,santiago,34,no,29996
+985,41,106778,29,Bachelor,Valparaíso,51,no,28492
+986,19,61796,24,,Concepción,45,yes,15957
+987,62,76229,27,Bachelor,santiago,50,yes,18352
+988,43,74075,0,High School,,38,yes,18153
+989,31,88782,3,Master,Valparaíso,28,no,24647
+990,68,122247,6,Bachelor,Valparaíso,48,yes,38342
+991,24,108995,8,Bachelor,Concepción,58,yes,30603
+992,20,,35,,Concepción,23,no,2323
+993,64,93562,18,Bachelor,,22,yes,28934
+994,40,111359,0,Master,Valparaíso,48,yes,33945
+995,63,90209,9,Master,,30,no,23808
+996,60,79883,35,Bachelor,Concepción,52,no,27852
+997,64,45575,8,Bachelor,Concepción,100,yes,22383
+998,62,62418,31,Master,Concepción,30,no,18332
+999,35,66068,31,PhD,Valparaíso,46,yes,20388
+1000,55,53399,5,PhD,Valparaíso,52,no,1751
+1001,52,87677,37,,Valparaíso,40,yes,31491
+1002,68,76715,16,High School,,58,no,24959
+1003,32,59422,9,Bachelor,Valparaíso,50,yes,21524
+1004,42,75896,26,,Santiago,57,no,20441
+1005,54,9175,34,Bachelor,Concepción,21,no,32376
+1006,45,127868,20,Bachelor,Santiago,46,no,41496
+1007,27,105302,24,Master,Concepción,55,no,24502
+1008,56,,27,PhD,Concepción,30,no,6957
+1009,34,85983,14,,Valparaíso,37,no,27561
+1010,56,,3,Bachelor,Valparaíso,20,no,32924
+1011,39,46553,28,PhD,Valparaíso,54,yes,11028
+1012,43,,8,PhD,Valparaíso,54,yes,33799
+1013,61,74084,26,High School,Concepción,50,no,22858
+1014,42,108757,25,High School,Concepción,47,no,33352
+1015,34,90106,18,PhD,Valparaíso,58,yes,22845
+1016,30,5790,27,Master,,20,yes,16483
+1017,37,,16,,Valparaíso,44,no,1972
+1018,42,76458,19,Master,Concepción,57,yes,25984
+1019,21,76921,39,PhD,Valparaíso,39,yes,2576
+1020,27,107982,38,Master,Santiago,22,no,32143
+1021,20,58935,22,PhD,Valparaíso,21,no,20042
+1022,58,105076,31,Bachelor,Valparaíso,37,no,31572
+1023,62,,32,Master,santiago,29,yes,23457
+1024,35,85588,4,PhD,,24,no,26086
+1025,64,,33,Bachelor,Santiago,28,no,26894
+1026,53,79455,39,High School,santiago,21,yes,26265
+1027,64,7966,10,Bachelor,Valparaíso,53,no,24601
+1028,39,116434,2,PhD,Concepción,57,yes,37658
+1029,51,101061,32,High School,,50,yes,3284
+1030,64,,10,Bachelor,Valparaíso,29,yes,20189
+1031,25,11957,15,High School,Santiago,31,yes,35707
+1032,57,86867,17,Bachelor,Valparaíso,55,yes,29501
+1033,66,88941,29,,Concepción,40,yes,2767
+1034,61,59067,9,PhD,Valparaíso,25,no,16548
+1035,36,67563,17,Bachelor,,22,no,18785
+1036,59,62787,37,High School,Concepción,29,no,20925
+1037,58,82152,18,Master,,24,yes,22501
+1038,54,9597,35,Bachelor,Valparaíso,45,no,33495
+1039,23,89181,12,High School,Concepción,40,yes,23441
+1040,69,119701,2,,Concepción,45,no,39545
+1041,43,57806,9,PhD,Concepción,57,yes,15796
+1042,51,82872,37,,Santiago,45,no,22581
+1043,62,,0,Bachelor,,27,yes,14406
+1044,23,56953,26,PhD,Valparaíso,24,no,15047
+1045,54,111614,7,,santiago,34,yes,33257
+1046,50,68421,16,,santiago,35,no,18894
+1047,39,59916,8,Bachelor,Concepción,20,yes,2081
+1048,38,26751,5,Bachelor,,35,no,7986
+1049,23,59666,24,PhD,santiago,56,no,14414
+1050,23,74868,38,,Concepción,22,no,22129
+1051,65,46065,27,PhD,Valparaíso,50,yes,16284
+1052,21,7343,32,High School,santiago,32,yes,2685
+1053,47,111766,36,Master,Valparaíso,35,yes,34494
+1054,28,62317,8,Bachelor,Valparaíso,40,yes,15162
+1055,47,56415,17,Bachelor,Concepción,21,yes,20517
+1056,48,51902,20,PhD,Concepción,46,no,17752
+1057,41,51456,1,PhD,Santiago,57,yes,18266
+1058,26,93389,37,High School,santiago,45,no,29837
+1059,20,81217,39,,Concepción,57,no,23613
+1060,68,103921,35,PhD,Concepción,44,yes,33597
+1061,48,130496,36,PhD,Valparaíso,30,no,41328
+1062,57,3424,14,Bachelor,Santiago,27,yes,8707
+1063,54,89502,27,PhD,Concepción,27,yes,28257
+1064,53,52035,17,PhD,Santiago,52,yes,14835
+1065,41,99722,33,Master,santiago,26,no,33277
+1066,48,73202,21,Master,Concepción,57,yes,23347
+1067,23,80683,10,PhD,Valparaíso,40,yes,2075
+1068,19,47921,12,High School,Concepción,27,yes,10979
+1069,37,69339,3,PhD,Santiago,40,no,19882
+1070,45,82242,21,Bachelor,Concepción,39,yes,25041
+1071,28,113902,6,Bachelor,santiago,27,no,36214
+1072,21,60136,23,High School,santiago,50,no,19731
+1073,32,66233,3,Bachelor,Concepción,48,yes,23436
+1074,23,103607,27,,Concepción,28,no,30471
+1075,66,58516,14,PhD,Concepción,34,no,16002
+1076,47,10856,0,Bachelor,Santiago,49,yes,28709
+1077,55,79773,2,Master,,45,yes,2538
+1078,68,87578,13,PhD,Concepción,29,yes,26409
+1079,19,89188,37,Bachelor,Valparaíso,48,no,22086
+1080,32,64594,0,,,35,yes,19285
+1081,28,89747,37,Bachelor,santiago,55,no,28472
+1082,25,,37,Bachelor,Santiago,39,no,18844
+1083,43,67447,20,Bachelor,Concepción,56,no,21004
+1084,68,93967,28,Bachelor,Concepción,41,no,25109
+1085,62,87335,4,Bachelor,Santiago,26,no,30804
+1086,61,78126,9,Master,Concepción,42,yes,24189
+1087,22,48532,27,High School,Concepción,59,yes,9409
+1088,23,54771,20,Master,Valparaíso,48,no,16454
+1089,43,,6,,Concepción,35,no,26896
+1090,21,98304,2,,Concepción,57,yes,25112
+1091,36,52259,19,Bachelor,Concepción,47,yes,17289
+1092,37,59004,18,PhD,Concepción,57,no,22504
+1093,50,,34,PhD,Valparaíso,50,no,23773
+1094,37,8282,3,PhD,Concepción,33,yes,25621
+1095,66,39401,4,Bachelor,santiago,52,yes,11606
+1096,29,84039,0,PhD,,28,no,27557
+1097,64,65041,3,Bachelor,Santiago,46,yes,18416
+1098,18,121026,11,Master,Valparaíso,43,yes,32798
+1099,43,,26,,Santiago,32,no,29242
+1100,31,90537,22,High School,santiago,45,no,24339
+1101,55,91184,24,Bachelor,santiago,48,no,33022
+1102,54,49652,20,PhD,Valparaíso,47,yes,16638
+1103,28,128597,23,Bachelor,Concepción,47,no,36992
+1104,53,39427,24,Bachelor,santiago,27,yes,15814
+1105,30,99893,31,Bachelor,Concepción,42,no,3065
+1106,60,95467,31,Bachelor,Concepción,48,no,28566
+1107,20,68075,4,Master,Santiago,24,yes,1810
+1108,50,96661,35,,Santiago,26,yes,24594
+1109,23,72061,38,High School,Concepción,55,no,24231
+1110,67,63113,15,PhD,Concepción,46,no,1388
+1111,27,91739,32,Bachelor,,21,yes,26322
+1112,22,54836,20,Bachelor,Valparaíso,44,no,17869
+1113,40,74394,8,Bachelor,Santiago,28,yes,20656
+1114,27,65146,5,Bachelor,Concepción,46,yes,19345
+1115,61,71601,34,Bachelor,Santiago,20,no,19139
+1116,19,90818,38,Bachelor,Concepción,42,yes,2726
+1117,30,65141,21,High School,santiago,29,yes,20502
+1118,57,75192,4,Bachelor,Santiago,44,yes,19023
+1119,19,67421,22,Bachelor,santiago,22,no,25945
+1120,37,11610,16,PhD,Santiago,25,yes,33218
+1121,18,88565,11,High School,Valparaíso,25,no,30755
+1122,54,85502,22,PhD,Valparaíso,21,no,25827
+1123,26,97085,15,High School,Concepción,37,no,2443
+1124,34,65147,2,Master,Concepción,42,yes,15393
+1125,26,,29,High School,Concepción,21,yes,32003
+1126,28,88654,21,PhD,,31,no,30125
+1127,32,40978,8,Bachelor,Concepción,41,no,17183
+1128,41,44299,28,Master,Concepción,56,yes,13954
+1129,55,65693,36,Bachelor,,39,no,17196
+1130,52,46975,22,PhD,Concepción,58,no,14868
+1131,47,74043,12,High School,,43,yes,19477
+1132,48,54657,31,Bachelor,santiago,39,no,18344
+1133,66,77557,22,Bachelor,Santiago,20,yes,21143
+1134,22,115293,16,PhD,Santiago,20,yes,28719
+1135,61,,39,Bachelor,Santiago,36,no,2881
+1136,67,72426,20,Bachelor,Valparaíso,20,yes,21649
+1137,31,89706,1,PhD,Valparaíso,49,yes,26131
+1138,28,6259,36,Bachelor,Concepción,22,yes,23127
+1139,26,,5,,santiago,30,no,35612
+1140,51,9238,17,High School,Valparaíso,43,no,29864
+1141,29,80972,29,High School,Valparaíso,41,no,25231
+1142,52,83858,21,Bachelor,Valparaíso,45,yes,26696
+1143,52,131044,32,Bachelor,Santiago,32,yes,39389
+1144,18,103558,29,PhD,,20,no,32226
+1145,57,134988,16,Bachelor,santiago,43,no,40871
+1146,39,93301,31,Master,Santiago,29,yes,2660
+1147,46,43208,13,Bachelor,Valparaíso,54,no,12596
+1148,25,73446,9,Bachelor,Valparaíso,43,no,22725
+1149,28,37495,35,Bachelor,Concepción,47,no,1361
+1150,58,93208,33,Bachelor,Concepción,55,no,29824
+1151,54,,8,Bachelor,santiago,35,no,25273
+1152,31,57852,27,PhD,,59,yes,21213
+1153,47,63609,10,PhD,santiago,35,no,22322
+1154,52,83719,13,PhD,Santiago,36,no,24757
+1155,38,50047,38,,Concepción,34,yes,17601
+1156,54,48171,18,High School,santiago,35,yes,14002
+1157,22,110966,14,High School,Concepción,34,yes,35566
+1158,36,82868,27,Bachelor,Concepción,53,yes,22708
+1159,31,66047,23,PhD,Santiago,30,no,24391
+1160,43,37697,7,Bachelor,Concepción,20,no,13366
+1161,21,101309,8,Master,Valparaíso,34,no,32289
+1162,42,62887,32,Bachelor,Concepción,45,no,19251
+1163,62,126517,32,Bachelor,santiago,23,yes,34857
+1164,59,,18,Bachelor,Santiago,24,yes,33517
+1165,42,59796,2,,santiago,54,no,1282
+1166,35,62113,9,Bachelor,Concepción,32,no,21132
+1167,57,123046,39,Bachelor,Valparaíso,29,no,35967
+1168,25,77894,0,Bachelor,Concepción,30,no,18007
+1169,56,,28,Bachelor,santiago,37,yes,20813
+1170,57,80693,33,Bachelor,santiago,53,no,28346
+1171,31,67052,12,Bachelor,santiago,58,yes,16659
+1172,49,86026,0,PhD,Valparaíso,42,yes,29765
+1173,68,78104,33,Bachelor,Valparaíso,26,yes,26531
+1174,55,101888,28,Bachelor,santiago,58,yes,31277
+1175,50,70286,12,PhD,santiago,22,no,19939
+1176,40,5788,28,Bachelor,Concepción,31,no,17046
+1177,32,71275,38,Master,Concepción,26,no,24053
+1178,50,71123,23,Bachelor,santiago,45,no,24125
+1179,42,78062,25,High School,Santiago,52,yes,21848
+1180,34,,16,High School,,56,yes,2602
+1181,50,94498,6,Bachelor,Concepción,34,yes,27328
+1182,64,109991,12,Master,Santiago,21,no,37358
+1183,19,,4,,Valparaíso,26,yes,13943
+1184,31,,25,PhD,santiago,51,yes,30573
+1185,57,98183,2,Master,Valparaíso,23,yes,29222
+1186,57,63144,6,High School,Concepción,39,yes,13505
+1187,68,,38,PhD,Concepción,55,no,21858
+1188,56,36251,0,Bachelor,santiago,51,yes,11684
+1189,68,,16,Bachelor,Concepción,47,yes,36067
+1190,23,74613,24,Bachelor,Santiago,32,no,18962
+1191,23,100164,2,Bachelor,Valparaíso,20,no,21292
+1192,20,85151,14,Bachelor,Valparaíso,54,no,21237
+1193,24,75371,28,High School,santiago,49,yes,26423
+1194,68,4018,31,High School,Valparaíso,55,yes,7123
+1195,25,44626,25,High School,Valparaíso,44,yes,1825
+1196,59,15171,15,High School,Concepción,35,yes,8246
+1197,69,65935,24,High School,,38,no,20794
+1198,32,136956,27,High School,Valparaíso,20,yes,40158
+1199,64,47801,8,PhD,Concepción,24,yes,14426
+1200,46,14214,0,High School,Santiago,41,no,5277
+1193,24,75371,28,High School,santiago,49,yes,26423
+835,40,72286,31,High School,Valparaíso,51,no,25654
+94,41,62105,37,Bachelor,Concepción,45,no,22877
+397,35,81563,26,High School,Concepción,42,no,26652
+232,40,92129,23,Bachelor,Concepción,52,no,27116
+131,41,5187150000000001,34,PhD,Valparaíso,100,yes,28086
+1168,25,77894,0,Bachelor,Concepción,30,no,18007
+205,54,72241,4,PhD,Concepción,45,no,21956
+494,51,48502,16,Master,Valparaíso,46,no,16343
+738,49,80903,36,Bachelor,Concepción,38,yes,2065
+181,62,8590,20,Master,santiago,28,no,24039
+748,36,,23,Bachelor,Concepción,20,no,18594
+238,19,2071,13,PhD,Valparaíso,30,no,1823
+989,31,88782,3,Master,Valparaíso,28,no,24647
+163,21,109654,17,,santiago,40,yes,3057
+4,32,105247,19,Bachelor,Concepción,41,no,28251
+1185,57,98183,2,Master,Valparaíso,23,yes,29222
+1077,55,79773,2,Master,,45,yes,2538
+417,50,65507,20,Bachelor,Concepción,30,no,21442
+434,18,79661,36,Bachelor,Concepción,31,no,2419
+695,25,83886,17,PhD,santiago,53,no,25955
+1144,18,103558,29,PhD,,20,no,32226
+77,61,45932,2,Bachelor,Valparaíso,26,yes,15578
+1189,68,,16,Bachelor,Concepción,47,yes,36067
+742,33,68526,26,Bachelor,Valparaíso,49,no,20216
+267,20,76795,11,High School,Concepción,21,yes,28251
+1130,52,46975,22,PhD,Concepción,58,no,14868
+734,55,104945,26,Bachelor,santiago,43,no,33444
+1118,57,75192,4,Bachelor,Santiago,44,yes,19023
+35,33,96084,24,Master,Concepción,46,yes,25462
+103,42,,33,PhD,Valparaíso,26,no,964
+889,32,86125,16,PhD,Santiago,21,yes,2493
+408,39,101528,16,Bachelor,Concepción,53,yes,30377
+323,42,71221,37,High School,,31,yes,21152
+251,51,99654,7,Master,Concepción,47,no,27407
+121,58,88258,3,PhD,Valparaíso,36,no,25103
+637,66,53415,12,Bachelor,Santiago,24,yes,16005
+518,66,,24,Master,santiago,53,yes,14056
+1152,31,57852,27,PhD,,59,yes,21213
+14,53,25087,20,Bachelor,Valparaíso,50,no,9632
+373,66,89138,17,Master,Valparaíso,36,yes,3106
+1150,58,93208,33,Bachelor,Concepción,55,no,29824
+283,67,75475,35,PhD,Valparaíso,38,yes,25531
+1014,42,108757,25,High School,Concepción,47,no,33352
+231,45,13106,32,Bachelor,Valparaíso,26,no,42759
+255,65,91502,4,Bachelor,Concepción,28,yes,29193
+99,46,115374,34,Master,Valparaíso,48,no,32392
+356,62,50716,19,PhD,Valparaíso,40,yes,16393
+116,52,53562,38,PhD,santiago,45,no,19048
+950,22,101893,37,Bachelor,Valparaíso,37,no,34336
